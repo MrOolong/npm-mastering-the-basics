@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/MrOolong/npm-mastering-the-basics/issues"
   },
-  "homepage": "https://github.com/MrOolong/npm-mastering-the-basics#readme"
+  "homepage": "https://github.com/MrOolong/npm-mastering-the-basics#readme",
+  "dependencies": {
+    "moment": "^2.22.1"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.5"
+  }
 }
