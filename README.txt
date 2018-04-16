@@ -4,4 +4,5 @@ Topics covered:
 1) Installing npm
 2) Creating a package.json file 
 3) Modifying package.json config
-4) How to install node packages and adding/removing dependencies from package.json 
+4) How to install node packages and adding/removing dependencies from package.json
+5) Installing packages globally "-g"
