@@ -4,7 +4,7 @@
   "description": "Here I will be completing the Udemy course called \"npm - Mastering the Basics\".",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
